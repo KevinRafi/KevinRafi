@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kevin Rafi</h1>
 <h3 align="center">I am a highly motivated and progress-focused Data Engineer with a background in this industry.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinrafi&label=Profile%20views&color=0e75b6&style=flat" alt="kevinrafi" /> </p>
 
-- 🔭 I’m currently working on **Digiasia Bios**
+- 🔭 I’m currently working on **Digiasia Bios** in **Jakarta, Indonesia**
 
 - 🌱 I’m currently learning **Python, MySQL, and ETL Tools**
 
-- 👨‍💻 All of my projects are available at [http://www.intip.in/sanberprojectNLP](http://www.intip.in/sanberprojectNLP)
+- 👨‍💻 All of my projects are available at [https://intip.in/MyResumeKevinRafi](https://intip.in/MyResumeKevinRafi)
 
 - 📫 How to reach me **kevinrafiadjie@gmail.com**
 
-- 📄 Know about my experiences [https://intip.in/MyResumeKevinRafi](https://intip.in/MyResumeKevinRafi)
+- 📄 Know about my experiences [https://intip.in/CVKevinRafi](https://intip.in/CVKevinRafi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
